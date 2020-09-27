@@ -1,4 +1,4 @@
-package java8;
+package java8.function;
 
 import java.util.function.UnaryOperator;
 
