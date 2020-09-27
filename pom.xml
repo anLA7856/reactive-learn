@@ -20,6 +20,7 @@
     <module>webflux-sample-order</module>
     <module>webflux-sample-password</module>
     <module>webflux-sample-websocket</module>
+    <module>webflux-sample-jdbc</module>
   </modules>
 
 
